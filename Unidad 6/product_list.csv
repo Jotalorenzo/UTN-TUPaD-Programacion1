@@ -1,0 +1,2 @@
+itemId,lineItemNumber,lineItemNumberForReplacement,opNumber,receivedStatus,relatedOrderId,replacementObjects,retInsStatus,rmaApprovalDate,rmaNumber,serialNumber,snAppStatus,claimStatus
+8024U000007MuvnQAC,600006064710,10,100-100000927BOX,Received,8014U000006UdRfQAK,[object Object],Pass,2024-03-28,6000060647,9KI4386O20285,Approved,Resolved
